@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://90geek.com/"/>
-  <updated>2020-05-30T14:33:47.638Z</updated>
+  <updated>2020-05-30T13:27:54.952Z</updated>
   <id>https://90geek.com/</id>
   
   <author>
@@ -15,21 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hllo</title>
-    <link href="https://90geek.com/2020/05/30/Hllo/"/>
-    <id>https://90geek.com/2020/05/30/Hllo/</id>
-    <published>2020-05-30T14:33:47.000Z</published>
-    <updated>2020-05-30T14:33:47.638Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>My Frist Page</title>
@@ -114,6 +99,27 @@ das
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Tags</title>
+    <link href="https://90geek.com/2013/12/24/Hllo/"/>
+    <id>https://90geek.com/2013/12/24/Hllo/</id>
+    <published>2013-12-24T15:29:53.000Z</published>
+    <updated>2020-06-01T04:08:14.651Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="Foo" scheme="https://90geek.com/tags/Foo/"/>
+    
+      <category term="Bar" scheme="https://90geek.com/tags/Bar/"/>
+    
+      <category term="Baz" scheme="https://90geek.com/tags/Baz/"/>
     
   </entry>
   
